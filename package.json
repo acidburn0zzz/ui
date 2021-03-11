@@ -40,7 +40,7 @@
     "Tiffany Kyi <tiffanykyi@gmail.com>"
   ],
   "devDependencies": {
-    "ansi_up": "^2.0.3",
+    "ansi_up": "^5.0.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "bootstrap-sass": "^3.3.7",
     "broccoli-asset-rev": "^2.7.0",
